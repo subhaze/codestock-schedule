@@ -1,7 +1,9 @@
 var express = require('express');
 var router = express.Router();
+// schedule JSON helper
 var jsdom = require('jsdom');
 
+// schedule JSON helper
 function groupBy(prop, list) {
   return list.reduce((group, item) => {
     if(!(item[prop] in group)) group[item[prop]] = [];
@@ -10,6 +12,7 @@ function groupBy(prop, list) {
   }, {});
 }
 
+// schedule JSON helper
 function getSessionsFromNode(parentNode) {
   const sessions = Array.from(parentNode.querySelectorAll('.single-event'))
     .map(node => {
@@ -22,8 +25,8 @@ function getSessionsFromNode(parentNode) {
     return groupBy('time', sessions);
 }
 
+// schedule JSON helper
 function parseHTML(window) {
-  
   return Array.from(window.document.querySelectorAll('.events-group'))
     .map(node => {
       return {
@@ -34,9 +37,15 @@ function parseHTML(window) {
 }
 
 function getSessionData() {
-  return new Promise((res, rej) => {
-    jsdom.env('http://codestock.org/session-schedule/', (err, window) => {
-      err ? rej(err) : res(parseHTML(window));
+  return new Promise((resolve, reject) => {
+    const fs = require('fs');
+    // schedule JSON helper
+    // jsdom.env('http://codestock.org/session-schedule/', (err, window) => {
+    //   fs.writeFileSync('./schedule.json', JSON.stringify(parseHTML(window)));
+    //   err ? reject(err) : resolve(parseHTML(window));
+    // });
+    fs.readFile('schedule.json', (err, data) => {
+      (err) ? reject(err) : resolve(JSON.parse(data));
     });
   });
 }
