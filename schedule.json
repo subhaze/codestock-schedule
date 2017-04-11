@@ -1,0 +1,598 @@
+[
+	{
+		"day": "FRIDAY",
+		"sessions": {
+			"07:00 - 09:00": [
+				{
+					"name": "REGISTRATION",
+					"time": "07:00 - 09:00",
+					"person": ""
+				}
+			],
+			"09:01 - 10:30": [
+				{
+					"name": "KEYNOTE",
+					"time": "09:01 - 10:30",
+					"person": "Hadi Hariri"
+				}
+			],
+			"10:45 - 11:55": [
+				{
+					"name": "Unlocking JavaScript via TypeScript",
+					"time": "10:45 - 11:55",
+					"person": "Josh Carroll"
+				},
+				{
+					"name": "What's New in C#7k",
+					"time": "10:45 - 11:55",
+					"person": "Jason Boc"
+				},
+				{
+					"name": "Stop Killing Requirements!",
+					"time": "10:45 - 11:55",
+					"person": "Melissa Green"
+				},
+				{
+					"name": "Look into your Application with Visual Studio Application Insights",
+					"time": "10:45 - 11:55",
+					"person": "Joseph Guadagno"
+				},
+				{
+					"name": "Being a Better Developer: Learning Skills That Aren't On Your Resume",
+					"time": "10:45 - 11:55",
+					"person": "Shawn Wildermuth"
+				},
+				{
+					"name": "Performance Tuning Azure SQL Databases",
+					"time": "10:45 - 11:55",
+					"person": "John Sterrett"
+				},
+				{
+					"name": "Tablets and Hybrids Need Mobile-Optimized Websites, Too!",
+					"time": "10:45 - 11:55",
+					"person": "Andrew Malek"
+				},
+				{
+					"name": "Making developers lives easier with SQL Server 2016",
+					"time": "10:45 - 11:55",
+					"person": "Samir Behara"
+				},
+				{
+					"name": "Introduction to Entity Framework Core",
+					"time": "10:45 - 11:55",
+					"person": "Philip Japikse"
+				},
+				{
+					"name": "Architecting the Future: Abstractions and Metadata",
+					"time": "10:45 - 11:55",
+					"person": "Daniel Barker"
+				},
+				{
+					"name": "Crafting Innovation",
+					"time": "10:45 - 11:55",
+					"person": "Steve Green"
+				},
+				{
+					"name": "LIGHTNING",
+					"time": "10:45 - 11:55",
+					"person": ""
+				}
+			],
+			"11:55 - 12:55": [
+				{
+					"name": "LUNCH",
+					"time": "11:55 - 12:55",
+					"person": null
+				}
+			],
+			"12:55 - 14:05": [
+				{
+					"name": "“JavaScript” is Not a Dirty Word",
+					"time": "12:55 - 14:05",
+					"person": "James Bender"
+				},
+				{
+					"name": "Dockerize Your .NET Development",
+					"time": "12:55 - 14:05",
+					"person": "Lee Brandt"
+				},
+				{
+					"name": "Introduction to Graph Databases with Neo4J",
+					"time": "12:55 - 14:05",
+					"person": "Brant Boehmann"
+				},
+				{
+					"name": "How To Have Code Reviews Developers Actually Want",
+					"time": "12:55 - 14:05",
+					"person": "Cameron Presley"
+				},
+				{
+					"name": "Slaying Epic Beasts: Planning and Executing Epics like an Agile Beowulf",
+					"time": "12:55 - 14:05",
+					"person": "Stjepan Rajko"
+				},
+				{
+					"name": "Your QA Should Be Your BFF",
+					"time": "12:55 - 14:05",
+					"person": "Hilary Weaver-Robb"
+				},
+				{
+					"name": "Details of Design: The Fine Art of Designing Web Experiences",
+					"time": "12:55 - 14:05",
+					"person": "Kristina Hardin"
+				},
+				{
+					"name": "One Codebase to Rule Them All",
+					"time": "12:55 - 14:05",
+					"person": "Jason Cox"
+				},
+				{
+					"name": "React vs Angular 2",
+					"time": "12:55 - 14:05",
+					"person": "Doguhan Uluca"
+				},
+				{
+					"name": "My Journey as a Microsoft Azure Program Manager",
+					"time": "12:55 - 14:05",
+					"person": "Matt Loflin"
+				},
+				{
+					"name": "Giving Percentage Points? Crash-Course in Equity Vesting and Team Grants",
+					"time": "12:55 - 14:05",
+					"person": "Haseeb Q."
+				},
+				{
+					"name": "LIGHTNING",
+					"time": "12:55 - 14:05",
+					"person": ""
+				}
+			],
+			"14:15 - 15:25": [
+				{
+					"name": "Basics of Domain Driven Design: the Building Blocks of Successful Architecture",
+					"time": "14:15 - 15:25",
+					"person": "Joel Marshall"
+				},
+				{
+					"name": "How to become a pro at Git",
+					"time": "14:15 - 15:25",
+					"person": "Chris Keathley"
+				},
+				{
+					"name": "Public Speaking without Barfing on Your Shoes",
+					"time": "14:15 - 15:25",
+					"person": "David Neal"
+				},
+				{
+					"name": "A DevOps Story",
+					"time": "14:15 - 15:25",
+					"person": "Jamie Phillips"
+				},
+				{
+					"name": "Learning Node.js (Intermediate) -- Packages, Modularity &amp; Express",
+					"time": "14:15 - 15:25",
+					"person": "Haseeb Q."
+				},
+				{
+					"name": "Bits to Atoms, an introduction to the Fourth Industrial Revolution",
+					"time": "14:15 - 15:25",
+					"person": "Sam McClanahan"
+				},
+				{
+					"name": "Coding with character. It's the study of logic!",
+					"time": "14:15 - 15:25",
+					"person": "Michael Luetjen"
+				},
+				{
+					"name": "One Codebase to Rule Them All",
+					"time": "14:15 - 15:25",
+					"person": "Jason Cox"
+				},
+				{
+					"name": "Women In Technology Panel",
+					"time": "14:15 - 15:25",
+					"person": ""
+				},
+				{
+					"name": "Nuclear Scrum : When Agile Practices meet Nuclear Physics",
+					"time": "14:15 - 15:25",
+					"person": "Stan Paulauskas"
+				},
+				{
+					"name": "How to get to Minimum Viable Product",
+					"time": "14:15 - 15:25",
+					"person": "Brandon Bruce"
+				},
+				{
+					"name": "LIGHTNING",
+					"time": "14:15 - 15:25",
+					"person": ""
+				}
+			],
+			"15:35 - 16:45": [
+				{
+					"name": "A Developer's Journey from Object Oriented to Functional Programming",
+					"time": "15:35 - 16:45",
+					"person": "Reid Evans"
+				},
+				{
+					"name": "Functional Programming Basics in ES6 (JavaScript)",
+					"time": "15:35 - 16:45",
+					"person": "Jeremy Fairbank"
+				},
+				{
+					"name": "Geting started with Entity Framework Core",
+					"time": "15:35 - 16:45",
+					"person": "Jim Wooley"
+				},
+				{
+					"name": "Developing ASP.NET Core in VS Code",
+					"time": "15:35 - 16:45",
+					"person": "Shawn Wildermuth"
+				},
+				{
+					"name": "Swift 3: Third Time's the Charm",
+					"time": "15:35 - 16:45",
+					"person": "Douglas Starnes"
+				},
+				{
+					"name": "Mind Blowing Internet of Things (IoT) Projects with Cognitive Services",
+					"time": "15:35 - 16:45",
+					"person": "Dan Thyer"
+				},
+				{
+					"name": "Taking a byte of Java Bytecode",
+					"time": "15:35 - 16:45",
+					"person": "Magnus Stahre"
+				},
+				{
+					"name": "Hour(s) of Code - Don't Let Your Kids Grow Up To Be Lawyers",
+					"time": "15:35 - 16:45",
+					"person": "Kevin Tuttle"
+				},
+				{
+					"name": "Write Better JavaScript with TDD",
+					"time": "15:35 - 16:45",
+					"person": "James Bender"
+				},
+				{
+					"name": "Release Management with Team Services",
+					"time": "15:35 - 16:45",
+					"person": "Paul Hacker"
+				},
+				{
+					"name": "Onboarding: How to Set Clients up for Success",
+					"time": "15:35 - 16:45",
+					"person": "Tommy Nguyen"
+				},
+				{
+					"name": "LIGHTNING",
+					"time": "15:35 - 16:45",
+					"person": ""
+				}
+			]
+		}
+	},
+	{
+		"day": "SATURDAY",
+		"sessions": {
+			"09:00 - 10:10": [
+				{
+					"name": "How Functional Programming Made Me A Better Developer",
+					"time": "09:00 - 10:10",
+					"person": "Cameron Presley"
+				},
+				{
+					"name": "Introduction to building iOS apps.... with Xamarin",
+					"time": "09:00 - 10:10",
+					"person": "Jason Farrell"
+				},
+				{
+					"name": "ASP.NET Core MVC - What you need to know",
+					"time": "09:00 - 10:10",
+					"person": "Philip Japikse"
+				},
+				{
+					"name": "The Basics of How to Unit Test your Code",
+					"time": "09:00 - 10:10",
+					"person": "Paul Sheriff"
+				},
+				{
+					"name": "Python: What's in it for You",
+					"time": "09:00 - 10:10",
+					"person": "Douglas Starnes"
+				},
+				{
+					"name": "Fizz Good and the Art of Delivering Value",
+					"time": "09:00 - 10:10",
+					"person": "David Neal"
+				},
+				{
+					"name": "Emotional Intelligence in Design",
+					"time": "09:00 - 10:10",
+					"person": "Christina Aldan"
+				},
+				{
+					"name": "Agile Architecture",
+					"time": "09:00 - 10:10",
+					"person": "Steve Green"
+				},
+				{
+					"name": "Do More with Less JavaScript",
+					"time": "09:00 - 10:10",
+					"person": "Doguhan Uluca"
+				},
+				{
+					"name": "Automating the Software Delivery Pipeline: DevOps in the Real World",
+					"time": "09:00 - 10:10",
+					"person": "Gregory Beamer"
+				},
+				{
+					"name": "Growth: Moving Beyond “Independent Developer”",
+					"time": "09:00 - 10:10",
+					"person": "Jay Harris"
+				},
+				{
+					"name": "OPEN",
+					"time": "09:00 - 10:10",
+					"person": ""
+				}
+			],
+			"10:20 - 11:30": [
+				{
+					"name": "Education vs. Certification",
+					"time": "10:20 - 11:30",
+					"person": "Chris Gardner"
+				},
+				{
+					"name": "Rapid REST API Development with Node and Sails",
+					"time": "10:20 - 11:30",
+					"person": "Justin James"
+				},
+				{
+					"name": "Seven Awesome SQL Server Feature You Can Use ... For Free",
+					"time": "10:20 - 11:30",
+					"person": "Allison Benneth"
+				},
+				{
+					"name": "Bootstrap 4.0 – What’s new?",
+					"time": "10:20 - 11:30",
+					"person": "Joseph Guadagno"
+				},
+				{
+					"name": "Figuring Out How You Got Hacked: An Introduction to Forensic Analysis and Volatility",
+					"time": "10:20 - 11:30",
+					"person": "Jared Smith"
+				},
+				{
+					"name": "From Cholera to the Space Shuttle Challenger: What Can We Learn About Professionalism from Other Professionals?",
+					"time": "10:20 - 11:30",
+					"person": "Nate Taylor"
+				},
+				{
+					"name": "Emotional Intelligence in Design",
+					"time": "10:20 - 11:30",
+					"person": "Christina Aldan"
+				},
+				{
+					"name": "I'll Get Back to You: Task, Await, and Asynchronous Methods in .NET",
+					"time": "10:20 - 11:30",
+					"person": "Jeremy Clark"
+				},
+				{
+					"name": "Coder Careers",
+					"time": "10:20 - 11:30",
+					"person": "Melissa Green"
+				},
+				{
+					"name": "Writing and Deploying Scalable Applications using Azure Service Fabric",
+					"time": "10:20 - 11:30",
+					"person": "Steven Swenson"
+				},
+				{
+					"name": "Mentor/Mentee Mashup",
+					"time": "10:20 - 11:30",
+					"person": "Erin Page"
+				},
+				{
+					"name": "Cross Platform Mobile UIs with Xamarin.Forms",
+					"time": "10:20 - 11:30",
+					"person": "Douglas Starnes"
+				}
+			],
+			"11:30 - 12:55": [
+				{
+					"name": "LUNCH",
+					"time": "11:30 - 12:55",
+					"person": null
+				}
+			],
+			"12:55 - 14:05": [
+				{
+					"name": "The 4 Steps to Becoming a Functional Programmer",
+					"time": "12:55 - 14:05",
+					"person": "Reid Evans"
+				},
+				{
+					"name": "Unit Testing with xUnit.net",
+					"time": "12:55 - 14:05",
+					"person": "Chris Gardner"
+				},
+				{
+					"name": "Examples of Micro-Service Architectures",
+					"time": "12:55 - 14:05",
+					"person": "Barry Stahl"
+				},
+				{
+					"name": "Building Mobile Apps with Visual Studio Tools for Apache Cordova",
+					"time": "12:55 - 14:05",
+					"person": "Matt Honeycutt"
+				},
+				{
+					"name": "Being Agile vs doing Agile.",
+					"time": "12:55 - 14:05",
+					"person": "Gretchen Knode"
+				},
+				{
+					"name": "Design for Non-Designers from a Non-Designer",
+					"time": "12:55 - 14:05",
+					"person": "Jay Harris"
+				},
+				{
+					"name": "Developers: Why Care About the User?",
+					"time": "12:55 - 14:05",
+					"person": "Andrew Malek"
+				},
+				{
+					"name": "Becoming a Social Developer: A Guide for Introverts",
+					"time": "12:55 - 14:05",
+					"person": "Jeremey Clark"
+				},
+				{
+					"name": "Authentication in Angular",
+					"time": "12:55 - 14:05",
+					"person": "Mark Wilson"
+				},
+				{
+					"name": "Knowing your aaS from a hole in the ground: Exploring SaaS, PaaS, CaaS, and IaaS",
+					"time": "12:55 - 14:05",
+					"person": "Adam Williams"
+				},
+				{
+					"name": "Creating a part-time side hustle",
+					"time": "12:55 - 14:05",
+					"person": "John Rouda"
+				},
+				{
+					"name": "LIGHTNING",
+					"time": "12:55 - 14:05",
+					"person": ""
+				}
+			],
+			"14:15 - 15:25": [
+				{
+					"name": "Let’s Get Functional with Elixir!",
+					"time": "14:15 - 15:25",
+					"person": "Nate Taylor"
+				},
+				{
+					"name": "Make Your Own SQL Server Queries Go Faster!",
+					"time": "14:15 - 15:25",
+					"person": "John Sterrett"
+				},
+				{
+					"name": "React Native In The Wild",
+					"time": "14:15 - 15:25",
+					"person": "Josh Gretz"
+				},
+				{
+					"name": "Learning Rust",
+					"time": "14:15 - 15:25",
+					"person": "Jason Bock"
+				},
+				{
+					"name": "Hacking Technical Debt",
+					"time": "14:15 - 15:25",
+					"person": "Steve Green"
+				},
+				{
+					"name": "Testing RESTful Web Services",
+					"time": "14:15 - 15:25",
+					"person": "Hilary Weaver-Robb"
+				},
+				{
+					"name": "User Experience at Every Level",
+					"time": "14:15 - 15:25",
+					"person": "Christina Aldan"
+				},
+				{
+					"name": "Composing The Future With RxJS",
+					"time": "14:15 - 15:25",
+					"person": "Josh Carroll"
+				},
+				{
+					"name": "Getting Comfortable Being Uncomfortable - Lessons Learned One Year After Coding Bootcamp",
+					"time": "14:15 - 15:25",
+					"person": "Aimee Knight"
+				},
+				{
+					"name": "Putting your builds to work for you, a piece of Cake!",
+					"time": "14:15 - 15:25",
+					"person": "Jamie Phillips"
+				},
+				{
+					"name": "Creating a Successful Software Product Company",
+					"time": "14:15 - 15:25",
+					"person": "Joe Walling"
+				},
+				{
+					"name": "LIGHTNING",
+					"time": "14:15 - 15:25",
+					"person": ""
+				}
+			],
+			"15:35 - 16:45": [
+				{
+					"name": "The War is Over, and JavaScript has Won: Living Under the JS Regime",
+					"time": "15:35 - 16:45",
+					"person": "Matt Honeycutt"
+				},
+				{
+					"name": "Make Your Own SQL Server Queries Go Faster!",
+					"time": "15:35 - 16:45",
+					"person": "John Sterrett"
+				},
+				{
+					"name": "git gone wild: how to recover from common git mistakes",
+					"time": "15:35 - 16:45",
+					"person": "Magnus Stahre"
+				},
+				{
+					"name": "JavaScript LevelUp",
+					"time": "15:35 - 16:45",
+					"person": "Lee Brandt"
+				},
+				{
+					"name": "Technical Leadership 101",
+					"time": "15:35 - 16:45",
+					"person": "John Rouda"
+				},
+				{
+					"name": "Building Your Own R2 Unit in Ruby",
+					"time": "15:35 - 16:45",
+					"person": "Jamie Wright"
+				},
+				{
+					"name": "Querying NoSQL with SQL: HAVING Your JSON Cake and SELECTing it too",
+					"time": "15:35 - 16:45",
+					"person": "Matthew Groves"
+				},
+				{
+					"name": "It's Not Dark Magic - Pulling Back the Curtains From Your Stylesheets",
+					"time": "15:35 - 16:45",
+					"person": "Aimee Knight"
+				},
+				{
+					"name": ".Net Compiler Platform (Roslyn) and you",
+					"time": "15:35 - 16:45",
+					"person": "Jim Wooley"
+				},
+				{
+					"name": "OPEN",
+					"time": "15:35 - 16:45",
+					"person": ""
+				},
+				{
+					"name": "How to be a Six Figure Developer",
+					"time": "15:35 - 16:45",
+					"person": "Gaines Kergosien"
+				},
+				{
+					"name": "LIGHTNING",
+					"time": "15:35 - 16:45",
+					"person": ""
+				}
+			]
+		}
+	}
+]
