@@ -1,0 +1,18 @@
+extends layout
+
+block content
+  h1= title
+  p Welcome to #{title}
+
+  hr
+
+  for day in sessions
+    div.columns
+      h2.column.col-12 #{day.day}
+      for vals, timeslot in day.sessions
+        h3.column.col-12 #{timeslot}
+        for talk in vals
+          div.column.col-3.col-sm-4.col-xs-6: div.card
+            div.card-header
+              h4.card-title #{talk.name}
+              span.card-subtitle #{talk.person}
